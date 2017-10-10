@@ -4,17 +4,24 @@ Teste da empresa Accera leitor de código QR para consumo de uma API de Star War
 Desenvolvido por: Matheus Artur Saviczki Santana
 
 Linkedin: https://www.linkedin.com/in/matheus-saviczki-santana-489790132/
+
 Stackoverflow: https://pt.stackoverflow.com/users/87323/matheus
+
 Portfólio: https://sites.google.com/site/matheusprogrammer94/
 
 *********************************************************************************
 
 Libs e Frameworks Utilizados:
  -Consumo de Webservice: Retrofit - com.squareup.retrofit2:retrofit:2.1.0
+ 
  -Deserializador JSON: GSON - com.squareup.retrofit2:converter-gson:2.0.0-beta4
+ 
  -Banco de Dados Local: Realm - io.realm:realm-android:0.84.1
+ 
  -ImageView Circular: CircularImageView - de.hdodenhof:circleimageview:2.1.0
+ 
  -Leitor de Código QR: ZXIngReader - me.dm7.barcodescanner:zxing:1.9
+ 
  -Padrão MVP
  
  *********************************************************************************
