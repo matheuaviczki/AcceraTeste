@@ -12,6 +12,7 @@ Portfólio: https://sites.google.com/site/matheusprogrammer94/
 *********************************************************************************
 
 Libs e Frameworks Utilizados:
+
  -Consumo de Webservice: Retrofit - com.squareup.retrofit2:retrofit:2.1.0
  
  -Deserializador JSON: GSON - com.squareup.retrofit2:converter-gson:2.0.0-beta4
@@ -27,6 +28,7 @@ Libs e Frameworks Utilizados:
  *********************************************************************************
  
  Funcionamento:
+ 
  -Ao abrir o aplicativo pela primeira vez, o mesmo irá pedir permissão de GPS, caso
  o usuário não de a permissão, quando for fazer verificação nos detalhes não irá
  aparecer sua localização, apenas a palavra 'Unknown' seguido do horário local.
